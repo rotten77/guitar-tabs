@@ -4,6 +4,10 @@ _Stupnice A Oriental (a) / D Neopolitian_
 
 Stupnice: http://www.all-guitar-chords.com/guitar_scales.php?scch=A&scchnam=Oriental+%28a%29&get2=Get&t=0&choice=1
 
+*Intro/závěr refrénu*
+<pre>
+E5  D#5 A5
+</pre>
 
 *Sloka*
 
