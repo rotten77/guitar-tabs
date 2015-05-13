@@ -6,7 +6,7 @@ Stupnice: http://www.all-guitar-chords.com/guitar_scales.php?scch=A&scchnam=Orie
 
 *Intro/závěr refrénu*
 <pre>
-E5  D#5 A5
+E5  D#5 A#5
 </pre>
 
 *Sloka*
@@ -26,3 +26,14 @@ E|----------------------|--3--3-----3--|-------------
 F5     C#5 A#5 C#5   A
 F5     C#5 A#5 C#5   D#5
 </pre>
+
+*Postup*
+
+*1x Intro
+*4x Sloka
+*4x Ref
+*2x Sloka - bicí přechody
+*4x Sloka - Honza orient
+*4x Ref
+*4x Sloka - Jana sólo
+*4x závěr - akordy E5 D#5 A#5 A5
